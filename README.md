@@ -1,7 +1,9 @@
-Email Spam Detection
-Description
+Email Spam Detection 
+
+Description:
 
 This project uses Python and machine learning to classify emails as spam or not spam.
+and for the dataset it is from kaggle : Spam Mails Dataset
 
 Technologies
 Python
@@ -18,6 +20,7 @@ Apply stemming using PorterStemmer.
 Convert text into numerical features using CountVectorizer.
 Train a Random Forest classifier.
 Predict whether a new email is spam or legitimate.
+
 How to run
 
 Install the required libraries:
